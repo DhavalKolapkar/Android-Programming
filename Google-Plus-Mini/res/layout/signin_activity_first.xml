@@ -30,7 +30,7 @@
     android:layout_height="wrap_content"
     android:layout_alignParentBottom="true"
     android:layout_centerHorizontal="true"
-    android:text="Google Plus Mini by: Deep Mehta, yash Oswal"
+    android:text="Google Plus Mini by: Dhaval Kolapkar, Harshad Kulkarni"
     android:textColor="#ffffff" />
 
 <Button

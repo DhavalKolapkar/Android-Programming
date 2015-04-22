@@ -47,9 +47,6 @@ Person person = plusDomains.people().get(friendId).execute();
 ####Account Picker
 ![Account Picker](https://github.com/dhavalkolapkar/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/Account%20Picker.png?raw=true "Account Picker")
 
-####User Dashboard
-![User Dashboard](https://github.com/dhavalkolapkar/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/User%20Dashboard.png?raw=true "User Dashboard")
-
 ####Circle Listing
 ![Circle Listing](https://github.com/dhavalkolapkar/Android-Programming/blob/master/Google-Plus-Mini/Screenshots/Circle%20listing.png?raw=true "Circle Listing")
 
